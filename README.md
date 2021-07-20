@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PallaviBhoite
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning SAP, more of ui technologies.
+- 🌱 I’m currently learning SAP and more of ui technologies.
 - 💞️ I’m looking to collaborate on any web related technolofy
 
 
